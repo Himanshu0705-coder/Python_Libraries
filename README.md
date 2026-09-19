@@ -5,6 +5,8 @@ This Github repo. will cosist all the libraries that are mentioned below.
 
 **NumPy:** Handles large, multi-dimensional arrays and matrices, providing high-performance mathematical operations.
 **Pandas:** Offers flexible data structures like DataFrames to clean, manipulate, filter, and analyze structured tabular data.
+**SciPy:** Built on NumPy; used for advanced scientific computations including integration, optimization, and signal processing.
+**Statsmodels:** Focused heavily on statistical modeling, hypothesis testing, and time-series forecasting.
 
 **2. Data Visualization**
 
