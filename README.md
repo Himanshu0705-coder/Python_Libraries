@@ -1,4 +1,5 @@
-# Python Libraries   :- This Github repo. will cosist all the libraries that are mentioned below.
+# Python Libraries  
+This Github repo. will cosist all the libraries that are mentioned below.
 
 **1. Data Science & Analysis**
 
