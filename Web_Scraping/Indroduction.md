@@ -42,4 +42,4 @@ Web scraping extracts underlying HTML code and , with it, data stored in a datab
 
 **Components of Web scraping**
 
-![alt text](image-1.png)
+![alt text](image.png)
