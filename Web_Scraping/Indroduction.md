@@ -39,7 +39,13 @@ Web scraping extracts underlying HTML code and , with it, data stored in a datab
 3. Selenium
 
 
-
+ 
 **Components of Web scraping**
 
 ![alt text](images/image.png)
+
+
+**Web Scraping is illegal**
+
+- we can check what elements we can extract using **robots.txt** in the end of website Url.
+
