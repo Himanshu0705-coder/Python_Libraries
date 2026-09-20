@@ -21,7 +21,7 @@ Web scraping extracts underlying HTML code and , with it, data stored in a datab
  **web scraper**
  - It collect data from a webpage.
 
- ![alt text](image.png)
+ ![alt text](images/image1.png)
 
 
 **Different types of web scrapers**
@@ -42,4 +42,4 @@ Web scraping extracts underlying HTML code and , with it, data stored in a datab
 
 **Components of Web scraping**
 
-![alt text](image.png)
+![alt text](images/image.png)
