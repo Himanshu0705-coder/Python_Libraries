@@ -4,12 +4,14 @@ This Github repo. will cosist all the libraries that are mentioned below.
 **1. Data Science & Analysis**
 
 - **NumPy:** Handles large, multi-dimensional arrays and matrices, providing high-performance mathematical operations.
+- Link :- https://www.youtube.com/watch?v=CpPLLp3snK4&list=PLKnIA16_Rmvb-ToL3RQ_bwxG4_ND-0-DT
 - **Pandas:** Offers flexible data structures like DataFrames to clean, manipulate, filter, and analyze structured tabular data.
+- Link :- https://www.youtube.com/watch?v=kq9Vmg5d7Sk&list=PLKnIA16_RmvbR85fgbfVRKOiMokUKVupy
 - **SciPy:** Built on NumPy; used for advanced scientific computations including integration, optimization, and signal processing.
 - **Statsmodels:** Focused heavily on statistical modeling, hypothesis testing, and time-series forecasting.
 
 **2. Data Visualization**
-
+ - Link :- https://www.youtube.com/watch?v=-jTD74eEy2I&t=1813s
 - **Matplotlib:** The foundational library for creating static, animated, and interactive visualizations.
 - **Seaborn:** Built on top of Matplotlib; provides beautiful, high-level statistical graphics with minimal code.
 - **Plotly:** Used to build highly interactive, web-ready graphs and complex analytical dashboards.
