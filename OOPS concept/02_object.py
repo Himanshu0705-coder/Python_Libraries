@@ -67,4 +67,5 @@ class ATM:
         else:
             print("invalid pin")
 
-    
+sbi = ATM()
+
