@@ -15,5 +15,6 @@
             "database": "employees",
             "connectionTimeout": 30
         }
-    ]
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:system"
 }
